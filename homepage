@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+   <head>
+<meta name="pan" content="width=device=wdith, initial-scale=1">
+<style>
+img {
+     	  display: block;                                                                               
+        margin-left: auto;
+        margin-right: auto;
+}
+
+p {
+        text-align: center;
+        margin: 0 auto;
+        width 30em;
+}
+
+.button {
+        background-color: black;
+        color: white;
+        border-color:white;
+}
+
+.button:hover {
+        background-color: black;
+        color:red;
+        border-color:white;
+}
+
+</style>
+      <title>Panford</title>
+   </head>
+   <body style="background-color:black;">
+<img src="https://i.imgur.com/qXQIjfq.jpg" alt="kakegurui"  class="center">
+   </body>
+<p>
+<br>
+<a href='https://www.4chan.org/' target="_blank"><button style="height:25px;width:100px;border: 1px solid white;background-color:black;color:white;">4chan</button></a>
+<a href='https://www.reddit.com/' target="_blank"><button style="height:25px;width:100px;border: 1px solid white;background-color:black;color:white;">reddit</button></a>
+<a href='https://www.netflix.com/' target="_blank"><button style="height:25px;width:100px;border: 1px solid white;background-color:black;color:white;">netflix</button></a>
+<a href='https://www.plex.tv/' target="_blank"><button style="height:25px;width:100px;border: 1px solid white;background-color:black;color:white;">plex</button></a>
+<a href='https://www.youtube.com/' target="_blank"><button style="height:25px;width:100px;margin-top: 5px;border: 1px solid white;background-color:black;color:white;">youtube</button></a>
+<br>
+<a href='https://www.codeacademy.com/' target="_blank"><button style="height:25px;width:100px;border: 1px solid white;background-color:black;color:white;">codeacademy</butto>
+<a href='https://www.github.com/' target="_blank"><button style="height:25px;width:100px;border: 1px solid white;background-color:black;color:white;">github</button></a>
+<a href='https://www.tryhackme.com/' target="_blank"><button style="height:25px;width:100px;border: 1px solid white;background-color:black;color:white;">tryhackme</button></a>
+<a href='https://www.udemy.com/' target="_blank"><button style="height:25px;width:100px;border: 1px solid white;background-color:black;color:white;">udemy</button></a>
+<a href='https://www.itpro.tv/' target="_blank"><button style="height:25px;width:100px;border: 1px solid white;background-color:black;color:white;">itpro</button></a>
+<a href='https://www.linkedin.com/' target="_blank"><button style="height:25px;width:100px;margin-top: 5px;border: 1px solid white;background-color:black;color:white;">linkedin</button></a>
+</p>
+<p style="color:red;font-size:20px">蛇喰 夢子</p>
+</html>
+
+
