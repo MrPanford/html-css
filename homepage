@@ -45,44 +45,35 @@ padding: 10px 30px;
 text-align:center;
 display: inline-block;
 text-decoration: none;
-font-size: 12px;
+font-size: 10px;
 font-family: "Courier New", "Lucida Console", monospace;
 margin: 1px;
 width: 4em;
 cursor: pointer;
-
 }
-
 .button:hover{
 border: 1px solid red;
 color: white;
 }
-
-
+body {
+border: 1px solid white;
+}
 </style>
       <title>Panford</title>
    </head>
+<class="body">
    <body style="background-color:black;">
+<br>
 <img src="https://i.imgur.com/qXQIjfq.jpg" alt="kakegurui"  class="center">
    </body>
-
 <p>
 <br>
-<a href='https://www.4chan.org/' class="button" target="_blank">4chan</a>
-<a href='https://www.reddit.com/' class="button" target="_blank">reddit</a>
-<a href='https://www.netflix.com/' class="button" target="_blank">netflix</a>
-<a href='https://www.plex.tv/' class="button" target="_blank">plex</a>
-<a href='https://www.youtube.com/' class="button" target="_blank">youtube</a>
-<a href='https://redacted/' class="button" target="_blank">menz</a>
+<a href='http://10.0.0.125/educationlinks.html' class="button" target="_self">edu</a>
+<a href='http://10.0.0.125/medialinks.html' class="button" target="_self">media</a>
+<a href='http://10.0.0.125/torrentlinks.html' class="button" target="_self">torrent</a>
+<a href='http://10.0.0.125/sociallinks.html' class="button" target="_self">social</a>
+
 <br>
-<a href='https://www.codeacademy.com/' class="button" target="_blank">code</a>
-<a href='https://www.github.com/' class="button" target="_blank">github</a>
-<a href='https://www.tryhackme.com/' class="button" target="_blank">hackme</a>
-<a href='https://www.udemy.com/' class="button" target="_blank">udemy</a>
-<a href='https://www.itpro.tv/' class="button" target="_blank">itpro</a>
-<a href='https://www.linkedin.com/' class="button" target="_blank">linkedin</a>
 </p>
 <div class="heading">蛇喰 夢子</p>
 </html>
-
-
